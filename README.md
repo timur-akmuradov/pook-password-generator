@@ -7,7 +7,6 @@
 
 A simple program with a user interface for generating two types of passwords (Standart and XKCD)
 ## Features
-* Generate 100% secure passwords
 * Random password generation
 * Generating a large number of passwords (*up to **9999***)
 * Customize the generation parameters to your liking
