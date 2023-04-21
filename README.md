@@ -37,7 +37,7 @@ A flexible and scriptable password generator which generates strong passphrases,
   - *contains 52891 words*
 - **RU Koran** - unique words from the Koran transliterated from Cyrillic to Latin
   - *contains 13920 words*
-- **RU WarAndPeace*** - unique words from Lev Tolstoy's novel "War and Peace" transliterated from Cyrillic to Latin
+- **RU WarAndPeace** - unique words from Lev Tolstoy's novel "War and Peace" transliterated from Cyrillic to Latin
   - *contains 48713 words*
 - **RU Slang XD** - unique slang words parsed from the [slang.su](https://slang.su/) website transliterated from Cyrillic to Latin
   - *contains 9958 words*
