@@ -1,4 +1,5 @@
 # Python - Password Generator
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=thympook.pook-password-generator)
 ![GitHub issues](https://img.shields.io/github/issues/thympook/pook-password-generator)
 ![GitHub top language](https://img.shields.io/github/languages/top/thympook/pook-password-generator)
 ![GitHub license](https://img.shields.io/github/license/thympook/pook-password-generator)
