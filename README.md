@@ -51,7 +51,3 @@ Just run the `main.py` and enjoy!
 ![Standart generation](screenshots/2.png)
 ## XKCD Generation
 ![XKCD Generation](screenshots/3.png)
-# Scripts used to collect dictionaries
-- [translitter-ru-eng](https://github.com/Thympook/translitter-ru-eng)
-- [dictionary-generator-cyrillic](https://github.com/Thympook/dictionary-generator-cyrillic)
-- [slang-parser](https://github.com/Thympook/slang-parser)
